@@ -15,7 +15,7 @@ Implementation requires:
 
 Data Preprocessing: Images should be compressed to unsigned 8-bit images of size 256x256x16 pixels. Images were shrunk with nearest-neighbor interpolation or re-sized with zero-padding. Images shoud be normalized with 0 mean pixel intensity and division by 255. The mean intensity ratio for normalization should be taken from scar_mean.npy. 
 
-To use the code: 
+To use the code: Open the ipython notebook. Choose your model. Make sure you data noramlized data is in a numpy array. Input the path to your data and the path of the weights of interest. Be sure that the model you initialize matches the architecture of the correspodning weights. 
 
 
 
