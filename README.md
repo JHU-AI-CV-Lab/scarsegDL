@@ -5,9 +5,9 @@ This repository contains weights and models for 3 different Scar Segmentation Mo
   2) Cascaded U-Net: https://link.springer.com/chapter/10.1007/978-3-030-33226-6_12
   3) U-Net ++: https://arxiv.org/abs/1807.10165
 
-# How to Use 
+## How to Use 
 
-# Dependencies 
+### Dependencies 
 
 Implementation requires: 
   1) Tensorflow
