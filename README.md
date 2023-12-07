@@ -15,5 +15,7 @@ Implementation requires:
 
 Data Preprocessing: Images should be compressed to unsigned 8-bit images of size 256x256x16 pixels. Images were shrunk with nearest-neighbor interpolation or re-sized with zero-padding. Images shoud be normalized with 0 mean pixel intensity and division by 255. The mean intensity ratio for normalization should be taken from scar_mean.npy. 
 
-To use the code: Open the ipython notebook. Choose your model. Make sure your data is in a numpy array with datatype uint8. Follow the instructions in the notebook. scar_segment.ipynb. 
+To use the code: Open the ipython notebook  scar_segment.ipynb. Choose your model. Make sure your data is in a numpy array with datatype uint8. Follow the instructions in the notebook. 
+
+If you would like to train the models with your own dataset, please use the iPython notebook titled scar_train.ipynb. 
 
