@@ -1,6 +1,7 @@
-# A 3D Convolutional Neural Network Model for Scar Segmentation 
-
 [![DOI](https://zenodo.org/badge/673355552.svg)](https://zenodo.org/doi/10.5281/zenodo.10303931)
+
+
+# A 3D Convolutional Neural Network Model for Scar Segmentation 
 
 This repository contains weights and models for 3 different Scar Segmentation Models:
   1) U-Net: https://www.nature.com/articles/s41592-018-0261-2
